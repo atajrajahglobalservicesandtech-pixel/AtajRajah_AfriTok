@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AfriTok: Digital Gifting & Creator Support",
+  "description": "A React-based web application simulating a digital gifting and creator monetization platform. Users can fund wallets, send virtual gifts to creators, and creators can manage their earnings. Includes a theme toggle for light and dark modes and uses Gemini API for simulated creator verification.",
+  "requestFramePermissions": []
+}
